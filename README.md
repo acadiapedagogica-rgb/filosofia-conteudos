@@ -1,32 +1,28 @@
-# Filosofia - Conteudos
+# Filosofia - Conteúdos
 
-## Academia Pedagogica | Eixo I
-
-> *"A vida sem exame nao merece ser vivida."* - Socrates
+## Academia Pedagógica | Eixo I
+> *"A vida sem exame não merece ser vivida."* - Sócrates
 
 ---
 
-## Sobre este Repositorio
-
-Colecao de conteudos didaticos de Filosofia para ensino medio e formacao docente. Organizado em modulos tematicos com textos, mapas conceituais, fichamentos de autores e sequencias didaticas.
-
+## Sobre este Repositório
+Coleção de conteúdos didáticos de Filosofia para ensino médio e formação docente. Organizado em módulos temáticos com textos, mapas conceituais, fichamentos de autores e sequências didáticas.  
 [**Voltar ao portal principal**](https://github.com/acadiapedagogica-rgb/acadiapedagogica-rgb.github.io)
 
 ---
 
-## Modulo 1 - Historia da Filosofia
-
+## Módulo 1 - História da Filosofia
 ### Filosofia Antiga
-- Pre-socraticos: Tales, Anaximandro, Heraclito, Parmenides
-- Socrates e a Maietica
-- Platao: Teoria das Ideias, Alegoria da Caverna
-- Aristoteles: Logica, Etica, Politica, Metafisica
-- Hellenismo: Estoicismo, Epicurismo, Ceticismo
+- Pré-socráticos: Tales, Anaximandro, Heráclito, Parmênides
+- Sócrates e a Maiêutica
+- Platão: Teoria das Ideias, Alegoria da Caverna
+- Aristóteles: Lógica, Ética, Política, Metafísica
+- Helenismo: Estoicismo, Epicurismo, Ceticismo
 
 ### Filosofia Medieval
-- Patristica: Agostinho, Justificacao da Fe
-- Escolastica: Tomas de Aquino, Anselmo, Nominalismo vs Realismo
-- Filosofia Arabe: Avicena, Averroes
+- Patrística: Agostinho, Justificação da Fé
+- Escolástica: Tomás de Aquino, Anselmo, Nominalismo vs Realismo
+- Filosofia Árabe: Avicena, Averróis
 
 ### Filosofia Moderna
 - Renascimento: Maquiavel, Montaigne
@@ -35,71 +31,57 @@ Colecao de conteudos didaticos de Filosofia para ensino medio e formacao docente
 - Iluminismo: Kant, Rousseau, Voltaire
 - Idealismo: Hegel, Fichte, Schelling
 
-### Filosofia Contemporanea
-- Nietzsche: Vontade de Potencia, Super-Homem
+### Filosofia Contemporânea
+- Nietzsche: Vontade de Potência, Super-Homem
 - Existencialismo: Sartre, Heidegger, Camus
-- Filosofia Analitica: Wittgenstein, Russell
-- Pos-Modernidade: Foucault, Derrida, Deleuze
+- Filosofia Analítica: Wittgenstein, Russell
+- Pós-Modernidade: Foucault, Derrida, Deleuze
 
 ---
 
-## Modulo 2 - Etica e Moral
-
-- Diferenca entre Etica e Moral
-- Etica Deontologica (Kant)
+## Módulo 2 - Ética e Moral
+- Diferença entre Ética e Moral
+- Ética Deontológica (Kant)
 - Utilitarismo (Bentham, Mill)
-- Etica das Virtudes (Aristoteles, MacIntyre)
-- Bioetica e Etica Aplicada
-- Etica na Educacao e Profissao Docente
+- Ética das Virtudes (Aristóteles, MacIntyre)
+- Bioética e Ética Aplicada
+- Ética na Educação e Profissão Docente
 
----
-
-## Modulo 3 - Filosofia Politica
-
+## Módulo 3 - Filosofia Política
 - Teorias do Contrato Social (Hobbes, Locke, Rousseau)
-- Marxismo e Teoria Critica
+- Marxismo e Teoria Crítica
 - Liberalismo, Conservadorismo, Socialismo
-- Anarquismo e Pensamento Libertario
-- Filosofia Politica Contemporanea (Rawls, Nozick)
+- Anarquismo e Pensamento Libertário
+- Filosofia Política Contemporânea (Rawls, Nozick)
 - Democracia, Cidadania e Direitos Humanos
 
----
-
-## Modulo 4 - Epistemologia
-
-- O que e o Conhecimento? (Justificacao, Crenca, Verdade)
+## Módulo 4 - Epistemologia
+- O que é o Conhecimento? (Justificação, Crença, Verdade)
 - Dogmatismo vs Ceticismo vs Criticismo
 - Racionalismo vs Empirismo vs Kant
-- Ciencia e Metodo Cientifico
-- Positivismo e Pos-Estruturalismo
-- Epistemologia da Educacao
+- Ciência e Método Científico
+- Positivismo e Pós-Estruturalismo
+- Epistemologia da Educação
 
----
-
-## Modulo 5 - Filosofia da Educacao
-
-- Educacao como Transformacao (Paulo Freire)
-- Pedagogia Critica
-- Educacao Para o Pensamento (Lipman)
+## Módulo 5 - Filosofia da Educação
+- Educação como Transformação (Paulo Freire)
+- Pedagogia Crítica
+- Educação Para o Pensamento (Lipman)
 - Erro e Conhecimento na Escola
 - Autoridade e Autoritarismo na Sala de Aula
-- Filosofia da Educacao Contemporanea
+- Filosofia da Educação Contemporânea
 
----
-
-## Modulo 6 - Logica e Argumentacao
-
-- Logica Argumentativa Basica
-- Falacias Logicas (Ad Hominem, Espantalho, Falsa Causa)
-- Silogismos Aristotelicos
-- Argumentos Validos e Sound
-- Retorica e Persuasao
-- Pensamento Critico na Sala de Aula
+## Módulo 6 - Lógica e Argumentação
+- Lógica Argumentativa Básica
+- Falácias Lógicas (Ad Hominem, Espantalho, Falsa Causa)
+- Silogismos Aristotélicos
+- Argumentos Válidos e Sólidos
+- Retórica e Persuasão
+- Pensamento Crítico na Sala de Aula
 
 ---
 
 ## Estrutura de Pastas
-
 ```
 filosofia-conteudos/
 ├── 01-historia-filosofia/
@@ -115,13 +97,9 @@ filosofia-conteudos/
 
 ---
 
-## Conexoes com outros Eixos
-
-- **Sociologia**: Ideologia (Marx), Habitus (Bourdieu), Racionalizacao (Weber)
-- **Teoria dos Sistemas**: Sistemico em Hegel, Ciberneticas e Epistemologia
-
+## Conexões com outros Eixos
+- **Sociologia**: Ideologia (Marx), Habitus (Bourdieu), Racionalização (Weber)
+- **Teoria dos Sistemas**: Sistêmico em Hegel, Cibernéticas e Epistemologia  
 [Explorar Sociologia](https://github.com/acadiapedagogica-rgb/sociologia-conteudos) | [Explorar Teoria dos Sistemas](https://github.com/acadiapedagogica-rgb/teoria-de-sistemas)
 
----
-
-**Licenca**: CC BY-SA 4.0 | **Autor**: Felipe de Luca 
+**Licença**: CC BY-SA 4.0 | **Autor**: Felipe de Luca
